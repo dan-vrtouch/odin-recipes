@@ -1,0 +1,17 @@
+.recipe {
+    color:black;
+}
+h1 {
+    font-size: 48px;
+    border-style: ridge;
+    border-width: auto;
+    text-align: center;
+}
+img {
+    display: block;
+    max-width: 300px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
